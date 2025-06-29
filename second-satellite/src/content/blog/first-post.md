@@ -6,7 +6,7 @@ heroImage: '../../assets/1.png'
 ---
 Mahidol Computer Engineering Year 1
 
-Hello, my name is Not. I was born in 2006 and am currently 19 years old, studying in my first year of Computer Engineering at Mahidol University.
+Hello, my name is North. I was born in 2006 and am currently 19 years old(at that time), studying in my first year of Computer Engineering at Mahidol University.
 
 To begin with, the reason I chose this major is because I have an interest in the field — although I wouldn’t say I’m passionate about it. For me, it’s simply the safest and most practical path toward my long-term goal: to become a tech entrepreneur. While the exact direction I want to take in business is still unclear, I’m committed to exploring and discovering it throughout my time in university.
 
