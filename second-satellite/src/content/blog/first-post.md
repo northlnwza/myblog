@@ -2,7 +2,7 @@
 title: 'Freshman'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'June 06 2025'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/1.png'
 ---
 Mahidol Computer Engineering Year 1
 
