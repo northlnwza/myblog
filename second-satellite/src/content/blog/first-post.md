@@ -1,7 +1,7 @@
 ---
-title: 'First post'
+title: 'Freshman'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+pubDate: 'June 06 2025'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 Mahidol Computer Engineering Year 1
